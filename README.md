@@ -1,7 +1,6 @@
 # videogamesales
 Assignment 6 of the Treehouse Data Analysis Techdegree program.
 
-References
 This is where I learned to remove the confidence interval in a Seaborn lineplot:
 
 https://wellsr.com/python/seaborn-line-plot-data-visualization/
